@@ -1,0 +1,16 @@
+PODS:
+  - CombineNetworking (0.1.0)
+
+DEPENDENCIES:
+  - CombineNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  CombineNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CombineNetworking: 259353a719b0074ccea4cd5f33c7c44173946bb9
+
+PODFILE CHECKSUM: 871966436383ce99488eb1142294e8ba8a336304
+
+COCOAPODS: 1.12.1

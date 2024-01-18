@@ -1,0 +1,6 @@
+framework module Pods_CombineNetworking_Tests {
+  umbrella header "Pods-CombineNetworking_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

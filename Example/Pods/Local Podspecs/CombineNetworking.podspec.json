@@ -1,0 +1,22 @@
+{
+  "name": "CombineNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of CombineNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JoanKing/CombineNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JoanKing": "chong.wang@niu.com"
+  },
+  "source": {
+    "git": "https://github.com/JoanKing/CombineNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CombineNetworking/Classes/**/*"
+}
